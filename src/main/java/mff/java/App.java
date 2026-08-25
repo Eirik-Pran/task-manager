@@ -21,7 +21,7 @@ public class App extends Application {
     private static Scene scene;
     private static final int minWidth = 1280;
     private static final int minHeight = 720;
-    private static final String windowTitle = "Task manager";
+    private static final String windowTitle = "Task xdd manager";
     private static final String iconFileName = "icon.png";
 
     @Override

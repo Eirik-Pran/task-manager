@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\mff",
+    "\\src\\main\\java\\mff\\java",
+    "\\src\\main\\java\\mff\\java\\db",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\mff",
+    "\\src\\test\\java\\mff\\java"
+  ],
+  "SelectedNode": "\\src\\main\\java\\mff\\java\\TaskDependencyGraph.java",
+  "PreviewInSolutionExplorer": false
+}
